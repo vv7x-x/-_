@@ -127,3 +127,6 @@
 2026-02-06 18:21:14,219 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8246905590:AAHdlEfGb_bGtHMVrXDjs9X5ErklquDlU9Q/getUpdates "HTTP/1.1 200 OK"
 2026-02-06 18:21:24,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8246905590:AAHdlEfGb_bGtHMVrXDjs9X5ErklquDlU9Q/getUpdates "HTTP/1.1 200 OK"
 2026-02-06 18:21:34,229 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8246905590:AAHdlEfGb_bGtHMVrXDjs9X5ErklquDlU9Q/getUpdates "HTTP/1.1 200 OK"
+2026-02-06 18:21:40,626 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8246905590:AAHdlEfGb_bGtHMVrXDjs9X5ErklquDlU9Q/getUpdates "HTTP/1.1 200 OK"
+2026-02-06 18:21:40,627 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2026-02-06 18:21:40,627 - telegram.ext.Application - INFO - Application.stop() complete
