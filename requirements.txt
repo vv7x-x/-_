@@ -1,6 +1,0 @@
-beautifulsoup4==4.12.2
-python-telegram-bot==21.4
-phonenumbers==8.13.37
-requests==2.32.3
-python-whois==0.8.0
-dnspython==2.6.1    
